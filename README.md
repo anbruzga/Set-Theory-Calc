@@ -17,7 +17,12 @@ To build it, the <b>dependencies</b> are:
 
 ### About This Build
 * The software was extending another software on boolean logic, but I do not have a right to include it here. Therefore, I had to crop out this project out of the full implementation. As a result, the last button in the menu "Back to Boolean Logic" is left non-functional.
-* More thorough UI testing to be performed for MacOS and Linux operating systems.
+* Thorough UI testing to be performed for MacOS and Linux operating systems.
+* 
 
 ##### Some Screenshots:
+Main Menu  
+![Main Menu](/Screenshots/menu.png)  
 
+Calculator View  
+![Calculator](/Screenshots/2.png)  
