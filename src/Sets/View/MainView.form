@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Sets.View.MainView">
+  <grid id="27dc6" binding="panel1" layout-manager="GridLayoutManager" row-count="6" column-count="5" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="582" height="489"/>
+    </constraints>
+    <properties>
+      <background color="-1"/>
+      <enabled value="true"/>
+    </properties>
+    <clientProperties>
+      <html.disable class="java.lang.Boolean" value="false"/>
+    </clientProperties>
+    <border type="none"/>
+    <children>
+      <scrollpane id="88919" binding="scrollPane3">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <horizontalScrollBarPolicy value="31"/>
+          <verticalScrollBarPolicy value="21"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="27c3" class="javax.swing.JButton" binding="vennDiagramsExercisesButton" custom-create="true" default-binding="true">
+            <constraints/>
+            <properties>
+              <horizontalTextPosition value="0"/>
+              <text value="&lt;html&gt;Practice &lt;br&gt;Venn Diagrams&lt;/html&gt;&quot;"/>
+            </properties>
+          </component>
+        </children>
+      </scrollpane>
+      <scrollpane id="cd213" binding="scrollPane4">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <horizontalScrollBarPolicy value="31"/>
+          <verticalScrollBarPolicy value="21"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="98749" class="javax.swing.JButton" binding="functionsButton" custom-create="true" default-binding="true">
+            <constraints/>
+            <properties>
+              <horizontalTextPosition value="0"/>
+              <text value="Functions"/>
+            </properties>
+          </component>
+        </children>
+      </scrollpane>
+      <vspacer id="7c5fa">
+        <constraints>
+          <grid row="4" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="c984d">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <hspacer id="483fc">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="342d3">
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="810f7">
+        <constraints>
+          <grid row="5" column="3" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <scrollpane id="af6d7" binding="scrollPane1">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <horizontalScrollBarPolicy value="31"/>
+          <verticalScrollBarPolicy value="21"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="8ff0f" class="javax.swing.JButton" binding="setsCalculatorButton" custom-create="true" default-binding="true">
+            <constraints/>
+            <properties>
+              <horizontalTextPosition value="0"/>
+              <text value="Calculator For Sets"/>
+            </properties>
+          </component>
+        </children>
+      </scrollpane>
+      <scrollpane id="fc88e" binding="scrollPane2">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <horizontalScrollBarPolicy value="31"/>
+          <verticalScrollBarPolicy value="21"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="f9e4b" class="javax.swing.JButton" binding="exercisesButton" custom-create="true" default-binding="true">
+            <constraints/>
+            <properties>
+              <horizontalTextPosition value="0"/>
+              <text value="Set Exercises"/>
+            </properties>
+          </component>
+        </children>
+      </scrollpane>
+      <scrollpane id="4d1ac" binding="scrollPaneTitle">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="3" vsize-policy="3" hsize-policy="7" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="SansSerif" size="22" style="1"/>
+          <horizontalScrollBarPolicy value="31"/>
+          <verticalScrollBarPolicy value="21"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="ee2f7" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <enabled value="false"/>
+            </properties>
+            <clientProperties>
+              <html.disable class="java.lang.Boolean" value="false"/>
+            </clientProperties>
+            <border type="none"/>
+            <children>
+              <component id="d751a" class="javax.swing.JLabel" binding="titleLabel">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font name="Times New Roman" size="22" style="1"/>
+                  <foreground color="-13434838"/>
+                  <horizontalAlignment value="0"/>
+                  <horizontalTextPosition value="0"/>
+                  <text value="SETS AND VENN DIAGRAMS"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </scrollpane>
+      <hspacer id="b51d5">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="31482">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <grid id="dafda" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="5" column="4" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children/>
+      </grid>
+      <grid id="76c47" binding="panelInitialFocus" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children/>
+      </grid>
+      <scrollpane id="9cac4" binding="scrollPane6">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <horizontalScrollBarPolicy value="31"/>
+          <verticalScrollBarPolicy value="21"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="e54d7" class="javax.swing.JButton" binding="manualButton" custom-create="true" default-binding="true">
+            <constraints/>
+            <properties>
+              <horizontalTextPosition value="0"/>
+              <text value="Manual"/>
+            </properties>
+          </component>
+        </children>
+      </scrollpane>
+      <scrollpane id="ba84a" binding="scrollPane5">
+        <constraints>
+          <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <horizontalScrollBarPolicy value="31"/>
+          <verticalScrollBarPolicy value="21"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="12fee" class="javax.swing.JButton" binding="backToBooleanLogicButton" custom-create="true" default-binding="true">
+            <constraints/>
+            <properties>
+              <horizontalTextPosition value="0"/>
+              <text value="&lt;html&gt;Back To&lt;br /&gt;Boolean Logic&lt;/html&gt;&quot;"/>
+            </properties>
+          </component>
+        </children>
+      </scrollpane>
+    </children>
+  </grid>
+</form>

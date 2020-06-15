@@ -1,0 +1,3 @@
+P&Q P:T Q:T P&Q:T true
+Qv~P P:T Q:T ~P:F Qv~P:F false
+Qv~P P:T Q:T ~P:F Qv~P:T true

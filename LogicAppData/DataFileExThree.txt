@@ -1,0 +1,4 @@
+P&Q P&Q:0
+(AvB)v~B ~B:0 AvB:0 (AvB)v~B:0
+(Av~B) ~B:0 Av~B:1
+Qv~P ~P:4 Qv~P:0
