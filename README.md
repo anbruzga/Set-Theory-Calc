@@ -20,7 +20,7 @@ To build it, the <b>dependencies</b> are:
 * UI testing was not performed on MacOS and Linux operating systems.
 
 ## Some Screenshots:
-Main Menu  
+### Main Menu  
 ![Main Menu](/Screenshots/menu.png)  
    
 ### Calculator View:
