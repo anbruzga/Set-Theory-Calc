@@ -8,7 +8,7 @@ For this project, I had to make a YouTube presentation because of pandemic. I le
 or press link: https://www.youtube.com/watch?v=mIG3Jv9gw7s&t=236s
 
 ## Installation:
-To run it, just download and run the <b>SetsTheoryCalc.jar </b> file. Make sure that windows runtime is up to date.  
+To run it, just download and run the <b>SetsTheoryCalc.jar </b> file. Make sure that Java runtime is up to date.  
 To build it, the <b>dependencies</b> are:
 * commons-lang303.9.jar
 * hamcrest-core-1.3.jar
