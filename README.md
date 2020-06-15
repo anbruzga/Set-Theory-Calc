@@ -26,7 +26,7 @@ Main Menu
 ### Calculator View  
 ![Calculator](/Screenshots/2.png)  
 
-<b> From Calculator and Set Exercises view user can select to see Venn diagrams with two to four sets. This is two sets example:
+<b> From Calculator and Set Exercises view user can select to see Venn diagrams with two to four sets. This is two sets example:<b>
 ![Calculator](/Screenshots/9.png)  
  Three and four sets look in similar fashion as below:
 
