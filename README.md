@@ -1,4 +1,4 @@
-# Sets Theory Educational Software
+# Set Theory Educational Software
  My final year project. Focuses on set theory calculator and interactive, programmable Venn diagrams. Builds functionality around it. Aimed at CS students of my University who are learning mathematics. So they can have some automated tools for set theory calculations.  
  
 ## Presentation:
