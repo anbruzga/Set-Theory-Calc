@@ -14,6 +14,7 @@ To build it, the <b>dependencies</b> are:
 * hamcrest-core-1.3.jar
 * javaluator-3.0.2.jar
 * junit-4.12.jar
+The project requires Java 8
 
 ## About This Build:
 * The software was extending another software on boolean logic, but I do not have a right to include it here. Therefore, I had to crop out this project out of the full implementation. As a result, the last button in the menu "Back to Boolean Logic" is left non-functional.
